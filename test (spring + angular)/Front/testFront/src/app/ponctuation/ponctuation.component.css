@@ -1,0 +1,27 @@
+.center {
+    position: absolute;
+    left: 50%;
+    top: 50%;
+    transform: translate(-50%, -50%);
+    border: 5px;
+    padding: 10px;
+    }
+
+
+    .center1 {
+        position: absolute;
+        left: 50%;
+        top: 20%;
+        transform: translate(-40%, -40%);
+        border: 5px;
+        padding: 5px;
+        }
+
+        .center3 {
+            position: absolute;
+            left: 50%;
+            top: 70%;
+            transform: translate(-50%, -50%);
+            border: 5px;
+            padding: 5px;
+            }
